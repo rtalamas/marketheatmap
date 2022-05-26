@@ -1,2 +1,2 @@
-# marketheatmap
+# Market Heatmap
 Heatmap to visualize market movements
